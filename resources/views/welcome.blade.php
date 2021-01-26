@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel aaa
+                    Laravel_rerere
                 </div>
 
                 <div class="links">
